@@ -1,0 +1,16 @@
+{
+  "name": "daoxin-system",
+  "version": "0.1.0",
+  "description": "道心系统 DaoXin System — 约束传递架构",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "license": "Apache-2.0",
+  "author": "巢木华",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
